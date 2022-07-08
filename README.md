@@ -25,4 +25,4 @@ int range fa0/7-9
 switchport mode access 
 switchport access vlan 30
 exit
-![Uploading Screenshot 2022-06-19 084915.jpg…]()
+
